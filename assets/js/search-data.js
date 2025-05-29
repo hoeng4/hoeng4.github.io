@@ -72,11 +72,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-qcd-quantization-contrastive-decoding",
+            },{id: "post-qcd-quantized-contrastive-decoding",
         
-          title: "QCD: Quantization Contrastive Decoding",
+          title: "QCD: Quantized Contrastive Decoding",
         
-        description: "QCD Quantization Contrasitve Decoding",
+        description: "QCD Quantized Contrastive Decoding",
         section: "Posts",
         handler: () => {
           
